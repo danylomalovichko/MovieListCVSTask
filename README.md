@@ -1,5 +1,4 @@
 # MovieListCVSTask
-MovieListCVSTask
 
 Extremely simple app that displays a list of hardcoded movies.
 
